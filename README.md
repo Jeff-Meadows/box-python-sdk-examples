@@ -6,7 +6,7 @@ This repository contains several IPython notebooks illustrating how to use the B
 
 Each notebook can be viewed online using IPython's notebook viewer, and each can be downloaded for the full interactive experience.
 
-- [Intro]
+- [Intro](http://nbviewer.ipython.org/urls/raw.github.com/Jeff-Meadows/box-python-sdk-examples/master/Box Python SDK.ipynb)
 - [Metadata]
 
 ### Running a notebook
